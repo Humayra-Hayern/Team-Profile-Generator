@@ -42,9 +42,6 @@ The image below displays the website's appearance and functionality.
 ## Demo
 
 
-## Link
-* 
-
 ## Credits
 University of Birmingham Bootcamp
 
