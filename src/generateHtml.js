@@ -8,7 +8,6 @@ function generateHtml(teamMembers) {
                 <div class="employee-card block p-6 rounded-lg shadow-lg bg-white max-w-sm">
                   <h4 class="text-white text-2xl leading-tight font-medium mb-4">${employee.getName()}</h4>
                   <h6 class="text-white text-xl leading-tight font-medium mb-4">${employee.getRole()}</h6>
-                  ${employee.getRoleImg()}
                   <p class="text-white text-lg text-base mt-4 mb-4">ID: ${employee.getId()}</p>
                   <p class="text-white text-lg text-base mt-4 mb-4">Email: ${employee.renderEmailMailtoStart()}${employee.getEmail()}${employee.renderEmailMailtoEnd()}</p>
                   <p class="text-white text-lg text-base mt-4">${employee.render()}</p>
