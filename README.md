@@ -29,6 +29,11 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
+## Instructions
+Firstly make sure all dependencies are installed by typing npm i in the console.
+Then to start the app, type node index.js and answer the questions.
+
+When the user runs the application they may choose which team member they would like to add (Manager, Engineer, Intern). They are then asked to enter the employee's name, ID, email address and office number(manager)/github(engineer)/school(intern). A html page is then generated using the information provided by the user.
 
 ## Appearance
 The image below displays the website's appearance and functionality.
