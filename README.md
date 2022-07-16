@@ -37,6 +37,7 @@ When the user runs the application they may choose which team member they would 
 
 ## Appearance
 The image below displays the website's appearance and functionality.
+
 ![teamprofilegen](https://user-images.githubusercontent.com/95111780/178106289-70dcfa9d-eb2b-4e18-be9a-b542d3636d3e.PNG)
 
 ## Demo
